@@ -1,5 +1,5 @@
 
-label yourName_storylet:
+label Jack_storylet:
 
     player "I study the ranger."
 

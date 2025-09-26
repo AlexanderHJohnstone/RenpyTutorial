@@ -12,7 +12,7 @@ label start:
     
     call yourName_storylet
 
-    #call secondStudent_scene
+    call Alexandra_storylet
     #call thirdStudent_scene
 
     if ranger_trust >= 2:
